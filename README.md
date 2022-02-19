@@ -20,7 +20,7 @@ FOR USING THIS EXSENTION:
 3. turn on "Developer mode"
 4. click "Load unpacked"
 5. choose downloaded folder
-6. Wohoo! You can see "Leads tracker", that's exactly our chorme exsensition
+6. Wohoo! You can see "Leads tracker", that's exactly our chorme extensition
 7. open any web-page, click on puzzle icon(exsention icon) on top right corner
 8. click "Leads tracker"
 9. ENJOY USING IT
