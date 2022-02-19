@@ -1,4 +1,4 @@
-# chorme-exstension
+# chorme-extension
 
 HTML, CSS, Javascript
 
